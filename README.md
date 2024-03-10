@@ -1,9 +1,6 @@
-# Guitar-Easy-Peasy-Web-App
+# Guitar-Easy-Peasy-Web-App 
+<strong>Your One-Stop Shop for Local Guitar Lessons and Enhanced Learning</strong>
 
-<p align="center">
-  <img width="299" alt="Screenshot 2024-02-28 091558" src="https://github.com/harshdeepkalita/Guitar-Easy-Peasy/assets/96279045/866ffb89-7367-421a-a7ec-85cda2f1ec42"><br>
-  <strong>Your One-Stop Shop for Local Guitar Lessons and Enhanced Learning</strong>
-</p>
 
 ---
 
